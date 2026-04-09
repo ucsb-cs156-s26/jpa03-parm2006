@@ -1,15 +1,7 @@
 # STARTER-jpa03
 
-```
-TODO: Change link below from the example running app to your own running app
-For example, you might change it to:
 
-Running at: <https://jpa03-cgaucho.dokku-13.cs.ucsb.edu>
-
-Then remove this TODO item.
-```
-
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
+Running at: <https://jpa03-parm2006.dokku-09.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
@@ -56,9 +48,9 @@ You can also append `/swagger-ui/index.html` to the URL manually when running on
 
 # To generate javadoc (locally, for development)
 
-* cd to top level of repo
+* cd to top level of reps
 * use: `mvn javadoc:javadoc`
-* open in a web browser: `target/site/apidocs/index.html`
+* open in a web browser: `target/reports/apidocs/index.html`
 
 You can also see the javadoc for the main branch and all open pull requests on the 
 github pages site associated with the repo; see [/docs/github-pages.md](/docs/github-pages.md) for more info.
